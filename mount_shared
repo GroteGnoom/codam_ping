@@ -1,0 +1,2 @@
+#!/Users/dnoom/bin/fish
+ssh -p 8000 root@127.0.0.1 "mount -t vboxsf -o gid=vboxsf ping /mnt"

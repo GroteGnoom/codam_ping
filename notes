@@ -1,0 +1,3 @@
+https://inc0x0.com/icmp-ip-packets-ping-manually-create-and-send-icmp-ip-packets/
+tshark -f "icmp" -a duration:0.5
+https://stackoverflow.com/questions/30581127/icmp-packet-obsolete-or-malformed
